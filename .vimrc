@@ -12,3 +12,4 @@ set smartindent
 set hls is
 set list
 set listchars=tab:»·,trail:»
+Plug 'pbondoer/vim-42header'
