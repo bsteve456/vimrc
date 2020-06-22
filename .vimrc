@@ -5,8 +5,8 @@ set background=dark
 set ruler
 set noexpandtab
 set showmode
-set shiftwidth=3
-set tabstop=3
+set shiftwidth=2
+set tabstop=2
 set autoindent
 set smartindent
 set hls is
