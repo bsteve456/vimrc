@@ -13,5 +13,12 @@ set smartindent
 set list
 set hls is
 set listchars=tab:»·,trail:»
+inoremap { {}<ESC>ha
+inoremap " ""<ESC>ha
+inoremap < <><ESC>ha
+inoremap ( ()<ESC>ha
+inoremap ' ''<ESC>ha
+inoremap [ []<ESC>ha
+
 Plug 'pbondoer/vim-42header'
 call plug#end()
